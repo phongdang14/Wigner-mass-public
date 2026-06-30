@@ -93,4 +93,4 @@ python3 src/build.py
 | Feature engineering | Michela Negro, Evander Espinoza |
 | Data & analysis | Phong Dang, Michela Negro |
 
-If you use this library, please cite: _(citation / DOI — to be added)._
+If you use this library, please cite: [this preprint](https://arxiv.org/abs/2606.28287)
